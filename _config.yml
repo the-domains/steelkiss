@@ -1,0 +1,14 @@
+layout_spectrum: 0.9659498
+typography_spectrum: 0.1391876
+color:
+  saturation: 0.6421744
+  lightness: 0.5597371
+  brandStrength: 0.5157503
+  brandColors:
+    - '#050505'
+    - '#413A3A'
+    - '#FBFAFA'
+    - '#655C5D'
+    - '#918888'
+  rhythmicContrast: 0.379331
+name: 'Steelkiss '
