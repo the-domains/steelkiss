@@ -1,28 +1,40 @@
-name: 'Steelkiss '
-favicon: null
-layout_spectrum: 0.95511
-typography_spectrum: 0.07417
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8130227
+  brandStrength: 0.5442055
+  lightness: 0.8452808
   brandColors:
     - '#010103'
     - '#85a0b1'
     - '#c7d0d7'
     - '#454547'
     - '#72757a'
-  brandStrength: 0.5
-  lightness: 0.5597371
-  saturation: 0.75
   rhythmicContrast: 0.379331
-purpose: []
+typography_spectrum: 0.09737155
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: 'Steelkiss '
