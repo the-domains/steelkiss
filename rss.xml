@@ -4,14 +4,14 @@
         <description><![CDATA[Grid Test]]></description>
         <link>https://thegrid.ai/steelkiss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:20:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/steelkiss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6248cd63-a184-4367-8b1a-e9a59f297dfe.jpg">]]></description>
             <link>https://thegrid.ai/steelkiss/this-is-a-test-to-see-what-grid-can-do/index.html</link>
             <guid isPermaLink="false">67095a1f-9bc5-4015-909f-e55ace16eb1a</guid>
-            <pubDate>Mon, 29 Aug 2016 07:15:24 GMT</pubDate>
+            <pubDate>Mon, 29 Aug 2016 07:20:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
