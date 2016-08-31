@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: 'Steelkiss '
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
 color:
   saturation: 0.8130227
   brandStrength: 0.5442055
-  lightness: 0.8452808
+  rhythmicContrast: 0.379331
   brandColors:
     - '#010103'
     - '#85a0b1'
     - '#c7d0d7'
     - '#454547'
     - '#72757a'
-  rhythmicContrast: 0.379331
-typography_spectrum: 0.09737155
+  lightness: 0.8452808
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
 favicon: null
-name: 'Steelkiss '
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+typography_spectrum: 0.09737155
