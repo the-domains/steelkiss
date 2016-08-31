@@ -1,6 +1,6 @@
 name: 'Steelkiss '
 favicon: null
-layout_spectrum: 0.08729
+layout_spectrum: 1
 typography_spectrum: 0.3389
 collections:
   - index:
