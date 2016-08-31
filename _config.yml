@@ -1,6 +1,6 @@
 name: 'Steelkiss '
 favicon: null
-layout_spectrum: 0.49789
+layout_spectrum: 0.08729
 typography_spectrum: 0.3389
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#d9d2da'
     - '#497cbb'
     - '#8a8fa3'
-  brandStrength: 0.5442055
+  brandStrength: 0.125
   lightness: 0.8452808
   saturation: 0.8130227
-  rhythmicContrast: 0.379331
+  rhythmicContrast: 0.25
 purpose: []
