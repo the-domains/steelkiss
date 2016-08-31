@@ -1,7 +1,7 @@
 name: 'Steelkiss '
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.09737155
+layout_spectrum: 0.49789
+typography_spectrum: 0.3389
 collections:
   - index:
       path: /
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010103'
-    - '#85a0b1'
-    - '#c7d0d7'
-    - '#454547'
-    - '#72757a'
+    - '#003585'
+    - '#135aa8'
+    - '#d9d2da'
+    - '#497cbb'
+    - '#8a8fa3'
   brandStrength: 0.5442055
   lightness: 0.8452808
   saturation: 0.8130227
